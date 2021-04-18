@@ -1,2 +1,1 @@
-# VirtualPet3
-Virtual Pet 3
+# C37
